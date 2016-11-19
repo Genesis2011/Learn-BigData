@@ -1,7 +1,7 @@
 ---
 title: Books of Teacher Zhou in 510
 layout: post
-categories: Book
+categories: 'Book,Project'
 tags: Book
 ---
 周老师把从图书馆借的两本书放在510书架上了
